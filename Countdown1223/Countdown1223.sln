@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Countdown1223", "Countdown1223\Countdown1223.csproj", "{F01F8993-6CB9-465B-BF85-4401C7424027}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F01F8993-6CB9-465B-BF85-4401C7424027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F01F8993-6CB9-465B-BF85-4401C7424027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F01F8993-6CB9-465B-BF85-4401C7424027}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F01F8993-6CB9-465B-BF85-4401C7424027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F01F8993-6CB9-465B-BF85-4401C7424027}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F01F8993-6CB9-465B-BF85-4401C7424027}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49166778-697D-4B77-824B-BA8158B9AA50}
+	EndGlobalSection
+EndGlobal
